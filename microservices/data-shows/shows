@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "001",
+    "name": "Rock Concert",
+    "houseSize": 100,
+    "reserved": 13
+  },
+  {
+    "_id": "002",
+    "name": "Shakespeare Play",
+    "houseSize": 50,
+    "reserved": 25
+  },
+  {
+    "_id": "003",
+    "name": "Monster Truck Rally",
+    "houseSize": 100,
+    "reserved": 100
+  }
+]
