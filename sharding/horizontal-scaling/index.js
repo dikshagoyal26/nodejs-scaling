@@ -1,0 +1,12 @@
+const db=require('./db')
+db.addCat({name:'biscuit',color:'orange'})
+db.addCat({name:'jungle',color:'orange'})
+db.addCat({name:'smokey',color:'red'})
+db.addCat({name:'fancy feast',color:'orange'})
+db.addCat({name:'peep',color:'orange'})
+db.addCat({name:'bread',color:'black'})
+
+var biscuit=db.findCatByName('biscuit')
+var orange_cats=db.findCatByColor('orange')
+console.log('biscuit:',biscuit)
+console.log('orange cats:',orange_cats)
