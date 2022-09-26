@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "pm2": "^4.2.3"
+    "pm2": "^5.2.0"
   },
   "dependencies": {
     "http": "0.0.1-security"
